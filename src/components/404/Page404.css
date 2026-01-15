@@ -1,0 +1,15 @@
+.st-page-not-found {
+  height: calc(100vh - 80px);
+}
+.st-page-not-found h3 {
+  font-size: 120px;
+  color: #0a101e;
+  text-shadow: 1px 1px 0 #fec544, 1px -1px 0 #fec544, -1px 1px 0 #fec544, -1px -1px 0 #fec544;
+}
+.st-page-not-found h4 {
+  color: #fec544;
+}
+.st-page-not-found p {
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}/*# sourceMappingURL=Page404.css.map */
