@@ -379,76 +379,7 @@
       }
     ]
   },
-  "blogData": {
-    "useFor": "blog",
-    "sliderSetting": {
-      "infinite": true,
-      "speed": 500,
-      "slidesToShow": 3,
-      "slidesToScroll": 1,
-      "arrows": false,
-      "responsive": [
-        {
-          "breakpoint": 991,
-          "settings": {
-            "slidesToShow": 2,
-            "autoplay": true
-          }
-        },
-        {
-          "breakpoint": 767,
-          "settings": {
-            "slidesToShow": 1,
-            "autoplay": true
-          }
-        }
-      ]
-    },
-    "informations": [
-      {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "Trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      }
-    ]
-  },
+  
   "reviewData": {
     "useFor": "review",
     "sliderSetting": {
@@ -517,10 +448,10 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Junior Frontend Developer",
+        "duration": "November 2025 - Present",
+        "subTitle": "Blizzcode Academy",
+        "text": "Built responsive and accessible web interfaces using HTML, CSS, JavaScript, and React. Collaborated on real-world projects, translated UI designs into functional components, and improved performance and usability across devices."
       },
       {
         "title": "Product Designer",
@@ -537,23 +468,18 @@
     ],
     "educationTitle": "Education",
     "education": [
+     
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Bachelor of Engineering in Electrical and Computer Engineering",
+        "duration": "2017 - 2022",
+        "subTitle": "Kwara State Umiversity",
+        "text": "Completed a Bachelor’s degree with a strong foundation in electrical systems, computer engineering principles, and problem-solving. Gained exposure to programming, algorithms, and system design, which now support my work in frontend development."
       },
       {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Full stack web development",
+        "duration": "2025 - 2026",
+        "subTitle": "Udemy",
+        "text": "Completed a comprehensive  web development course covering frontend and backfundamentals. Built projects using HTML, CSS, JavaScript, React, and basic backend concepts, with a focus on real-world application development."
       }
     ]
   },

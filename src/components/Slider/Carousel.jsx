@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import './Carousel.scss';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import SingleBlog from "../Blog/SingleBlog";
+
 import SingleReview from "../Review/SingleReview";
 
 const Carousel = ({ data }) => {

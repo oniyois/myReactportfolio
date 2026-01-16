@@ -3,7 +3,7 @@ import About from '../components/About/About';
 import Iconbox from '../components/Iconbox/Iconbox';
 import Skill from '../components/Skill/Skill';
 import Resume from '../components/Resume/ResumeSection';
-import BlogSection from '../components/Blog/BlogSection';
+
 import ReviewSection from '../components/Review/ReviewSection';
 import Contact from "../components/Contact/Contact";
 import PortfolioSection from '../components/Protfolio/PortfolioSection';
