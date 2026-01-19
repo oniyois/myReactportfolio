@@ -31,7 +31,7 @@
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Islamiyat Oniyo",
     "subtitle": "Frontend Developer",
-    "text": "I am a Frontend Developer with a strong focus on building visually engaging and user-friendly digital experiences. Frontend development blends design and technology to attract, inspire, and guide users, transforming ideas into interactive interfaces that create meaningful and impactful user experiences. With a keen eye for detail and a passion for creativity, I specialize in crafting responsive websites and applications that not only look great but also function seamlessly across various devices and platforms. My expertise lies in HTML, CSS, JavaScript, and popular frontend frameworks like React.js. I am dedicated to staying updated with the latest industry trends and best practices to ensure that my work remains innovative and effective.",
+    "text": "I am a Frontend Developer focused on creating visually engaging, user-friendly digital experiences. I specialize in building responsive websites and applications using HTML, CSS, JavaScript, and React.js, ensuring seamless performance across devices. I am passionate about clean design, attention to detail, and staying up to date with modern frontend best practices.",
     "details": [
      
       {
@@ -408,9 +408,9 @@
     "informations": [
       {
         "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+  "title": "Blizzcode Academy",
+  "designation": "Web Development Instructor",
+  "text": "I’ve reviewed the recent updates in the repository and truly appreciate the quality and effort put into the work."
       },
       {
         "imgLink": "./images/client/client2.png",
@@ -454,17 +454,19 @@
         "text": "Built responsive and accessible web interfaces using HTML, CSS, JavaScript, and React. Collaborated on real-world projects, translated UI designs into functional components, and improved performance and usability across devices."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      }
+  "title": "Frontend Developer Intern",
+  "duration": "2024",
+  "subTitle": "Iktoons Technology",
+  "text": "Worked as a Frontend Developer Intern, contributing to the design and development of responsive web interfaces. Gained hands-on experience with HTML, CSS, JavaScript, and modern frontend practices while collaborating with team members to build user-friendly digital solutions."
+}
+,
+   {
+  "title": "Personal Frontend Projects",
+  "duration": "2024 – Present",
+  "subTitle": "Self-Directed",
+  "text": "Designed and developed real-world web applications, including an e-commerce platform and an educational website. Focused on responsive design, clean UI, accessibility, and performance using modern frontend technologies."
+}
+
     ],
     "educationTitle": "Education",
     "education": [
@@ -480,7 +482,14 @@
         "duration": "2025 - 2026",
         "subTitle": "Udemy",
         "text": "Completed a comprehensive  web development course covering frontend and backfundamentals. Built projects using HTML, CSS, JavaScript, React, and basic backend concepts, with a focus on real-world application development."
-      }
+      },
+      
+        {
+  "title": "Responsive Web Design ",
+  "duration": "2025",
+  "subTitle": "freeCodeCamp",
+  "text": "Earned the freeCodeCamp Responsive Web Design certification, gaining hands-on experience with HTML5, CSS3, Flexbox, CSS Grid, accessibility, and responsive layouts through multiple real-world projects."
+}
     ]
   },
   "contactData": {
@@ -500,7 +509,7 @@
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/islamiyat-oniyo/"
     },
     {
       "icon": "github",
