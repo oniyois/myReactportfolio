@@ -407,17 +407,18 @@
     },
     "informations": [
       {
-        "imgLink": "./images/client/client1.png",
+        "imgLink": "./images/client/Blizzcode.png",
   "title": "Blizzcode Academy",
   "designation": "Web Development Instructor",
   "text": "I’ve reviewed the recent updates in the repository and truly appreciate the quality and effort put into the work."
       },
       {
-        "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
+  "imgLink": "./images/client/client1.png",
+  "title": "Crevmic",
+  "designation": "Project Partner",
+  "text": "Islamiyat is skilled, reliable, and easy to work with. She consistently delivers quality work and communicates clearly."
+}
+,
       {
         "imgLink": "./images/client/client3.png",
         "title": "Joseph Alves",
@@ -504,16 +505,18 @@
     {
       "icon": "twitter",
       "title": "Twitter",
-      "link": "/"
+        "link": "https://twitter.com/meeyahcodes"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/islamiyat-oniyo/"
+      "link": "https://www.linkedin.com/in/islamiyat-oniyo-/"
     },
     {
       "icon": "github",
-      "link": "/github"
+      "title": "Github",
+      "link": "https://github.com/oniyois/"
+
     }
   ],
   "socialData2": [
