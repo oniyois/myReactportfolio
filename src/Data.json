@@ -5,7 +5,7 @@
       "imgLink": "/images/background/heroMy.jpeg",
       "title": "Islamiyat<br /> Oniyo",
       "subTitle": "Hello, I’m",
-      "designation": "Frontend Developer"
+      "designation": "Frontend & WordPress Developer"
     },
     "homeTwoHero": {
       "imgAuthor": "/images/section/hero-img.jpg",
@@ -62,122 +62,133 @@
   },
   "serviceData": {
     "services": [
-      {
-        "imgLink": "./images/icon/icon1.png",
-        "title": "Frontend Web Development",
-        "text": "I build fast, responsive, and interactive websites using modern frontend technologies to deliver smooth user experiences across all devices.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/icon/icon2.png",
-        "title": "UI Implementation",
-        "text": "I transform design concepts into clean, functional interfaces, ensuring pixel-perfect layouts and consistent user interactions.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/icon/icon3.png",
-        "title": "Responsive Design",
-        "text": "I create layouts that adapt seamlessly to different screen sizes, providing an optimal experience on mobile, tablet, and desktop devices.",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/icon/icon4.png",
-        "title": "Website Optimization",
-        "text": "I optimize websites for speed, accessibility, and performance, ensuring smooth navigation, faster load times, and an improved overall user experience.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/icon/icon5.png",
-        "title": "Design-to-Code Conversion",
-        "text": "I convert Figma design files into clean, responsive, and maintainable code, ensuring accurate layouts, consistent styling, and seamless user interactions.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/icon/icon6.png",
-        "title": "Website Maintenance & Updates",
-        "text": "I maintain and update websites by fixing issues, improving functionality, and keeping content current to ensure long-term reliability and performance.",
-        "duration": "500",
-        "delay": "700"
-      }
+     {
+  "imgLink": "./images/icon/icon1.png",
+  "title": "Frontend Web Development",
+  "text": "I build fast, responsive websites using modern frontend technologies to deliver smooth and engaging user experiences across all devices.",
+  "effect": "zoom-out-up",
+  "duration": "500",
+  "delay": "200"
+},
+{
+  "imgLink": "./images/icon/icon2.png",
+  "title": "WordPress Website Dev",
+  "text": "I build and customize WordPress websites using themes, plugins, and custom code to create flexible and user-friendly solutions.",
+  "effect": "zoom-out-up",
+  "duration": "500",
+  "delay": "300"
+},
+{
+  "imgLink": "./images/icon/icon3.png",
+  "title": "UI Implementation",
+  "text": "I translate design concepts into clean, functional interfaces with pixel-perfect layouts and consistent, intuitive user interactions.",
+  "duration": "500",
+  "delay": "400"
+},
+{
+  "imgLink": "./images/icon/icon4.png",
+  "title": "Responsive Design",
+  "text": "I design layouts that adapt seamlessly across mobile, tablet, and desktop screens for a consistent user experience.",
+  "effect": "zoom-out-up",
+  "duration": "500",
+  "delay": "500"
+},
+{
+  "imgLink": "./images/icon/icon5.png",
+  "title": "Design-to-Code Conversion",
+  "text": "I convert Figma designs into clean, responsive code, ensuring accurate layouts, consistent styling, and smooth interactions.",
+  "effect": "zoom-out-up",
+  "duration": "500",
+  "delay": "600"
+},
+{
+  "imgLink": "./images/icon/icon6.png",
+  "title": "Website Maintenance",
+  "text": "I maintain and optimize websites by fixing issues, improving performance, and keeping content secure and up to date.",
+  "duration": "500",
+  "delay": "700"
+}
+
+
     ]
   },
   "skillData": {
-    "title": "Professional Skills",
-    "text": "Below are the core skills I apply in my frontend development work. I focus on building responsive, user-focused interfaces using clean, maintainable code and modern web technologies.",
-    "skills": [
-     
-  {
-    "title": "HTML5 – semantic, accessible markup",
-    "progress": "95%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "200"
-  },
-  {
-    "title": "React.js – component-based architecture and state management",
-    "progress": "95%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "300"
-  },
-  {
-    "title": "CSS3 & UI Styling – layouts, animations, and visual consistency",
-    "progress": "90%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "400"
-  },
-  {
-    "title": "Git & GitHub – version control and collaborative workflows",
-    "progress": "85%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "500"
-  },
-  {
-    "title": "JavaScript  – interactive and dynamic functionality",
-    "progress": "80%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "600"
-  },
-  {
-    "title": "Responsive Web Design – mobile-first, cross-device compatibility",
-    "progress": "90%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "700"
-  },
-  {
-    "title": "Figma Design to Code – accurate UI implementation from designs",
-    "progress": "90%",
-    "effect": "fade-up",
-    "duration": "500",
-    "delay": "800"
-  }
+  "title": "Professional Skills",
+  "text": "Below are the core skills I apply in my frontend and WordPress development work. I focus on building responsive, user-focused interfaces using clean, maintainable code and modern web technologies.",
+  "skills": [
+    {
+      "title": "HTML5 – semantic, accessible markup",
+      "progress": "95%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "title": "React.js – component-based architecture and state management",
+      "progress": "95%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "title": "CSS3 & UI Styling – layouts, animations, and visual consistency",
+      "progress": "90%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "title": "WordPress – theme & plugin customization",
+      "progress": "95%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "title": "Git & GitHub – version control and collaborative workflows",
+      "progress": "90%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "title": "JavaScript – interactive and dynamic functionality",
+      "progress": "80%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "700"
+    },
+    {
+      "title": "Responsive Web Design – mobile-first, cross-device compatibility",
+      "progress": "90%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "800"
+    },
+    {
+      "title": "Figma Design to Code – accurate UI implementation from designs",
+      "progress": "90%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "900"
+    }
+  ]
 
 
-    ]
+
+    
   },
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLink": "./images/portfolio/portfImg.png",
         "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "url": "https://blizzcode.netlify.app/"
       },
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
@@ -410,13 +421,13 @@
         "imgLink": "./images/client/Blizzcode.png",
   "title": "Blizzcode Academy",
   "designation": "Web Development Instructor",
-  "text": "I’ve reviewed the recent updates in the repository and truly appreciate the quality and effort put into the work."
+  "text": "Great quality work delivered with strong attention to detail and consistent improvement."
       },
       {
-  "imgLink": "./images/client/client1.png",
+  "imgLink": "./images/client/client4.jpeg",
   "title": "Crevmic",
   "designation": "Project Partner",
-  "text": "Islamiyat is skilled, reliable, and easy to work with. She consistently delivers quality work and communicates clearly."
+  "text": "Islamiyat delivers quality work with strong attention to detail and clear communication."
 }
 ,
       {
